@@ -21,7 +21,7 @@ O **Minecraft** é um jogo eletrônico atualmente da microsoft muito popularizad
         <a href="https://github.com/Laehan">
           <img src="https://imgur.com/lPsLHjv.png" width="80" />
           <br/>
-          <b>Alejenadro</b>
+          <b>Alejandro</b>
         </a>
       </td> 
     </tr>
