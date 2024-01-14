@@ -12,14 +12,14 @@ O **Minecraft** é um jogo eletrônico atualmente da microsoft muito popularizad
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/viniciusdall">
-          <img src="https://imgur.com/usZP5YT" width="80" />
+          <img src="https://imgur.com/usZP5YT.png" width="80" />
           <br/>
           <b>Vinicius Dallapé</b>
         </a>
       </td>
       <td align="center" valign="top">
         <a href="https://github.com/Laehan">
-          <img src="https://imgur.com/lPsLHjv" width="80" />
+          <img src="https://imgur.com/lPsLHjv.png" width="80" />
           <br/>
           <b>Alejenadro</b>
         </a>
